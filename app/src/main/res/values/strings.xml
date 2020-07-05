@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vehicle System (SyedAsimRazaNaqvi 38966)</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="login">LOGIN</string>
+    <string name="dont_have_account">Don`t Have Account?</string>
+    <string name="HintEmail">Email</string>
+    <string name="HintPassword">Password</string>
+    <string name="SearchVehicle">SEARCH VEHICLE</string>
+    <string name="SellVehicle">SELL VEHICLE</string>
+</resources>

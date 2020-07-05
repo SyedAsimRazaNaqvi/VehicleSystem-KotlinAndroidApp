@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "441169946430",
+    "firebase_url": "https://vehiclesystemdata.firebaseio.com",
+    "project_id": "vehiclesystemdata",
+    "storage_bucket": "vehiclesystemdata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441169946430:android:7dfa8d6e2da840f405ee6f",
+        "android_client_info": {
+          "package_name": "pk.edu.iqra.vehiclesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441169946430-f3ijg6bmtrnhdk9uj7hgjb7b929dh7gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7EJiMtnf0TZFaJwWKwx5qp0Y1MbrKoj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441169946430-f3ijg6bmtrnhdk9uj7hgjb7b929dh7gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
